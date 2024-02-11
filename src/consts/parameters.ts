@@ -1,6 +1,6 @@
 import CustomChain from "../consts/chain";
 
-export const contractAddress = "0x5Baa53AfB5b14aA3e7c70D649D56cfa00BA324eE";
+export const contractAddress = "0x30bCD58beba88576B3b57ff9df4C9394baf66852";
 
 export const chain = CustomChain;
 
